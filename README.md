@@ -8,3 +8,5 @@ Treninkovy repozitar workshopu Git_GitHub_2026
 4) schváli
 5) ok, hotovo
 6) program se nachází v ProgramFiles
+
+   Více informací na naucse.python.cz
