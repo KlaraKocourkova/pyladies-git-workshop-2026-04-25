@@ -1,7 +1,7 @@
 # pyladies-git-workshop-2026-04-25
 Treninkovy repozitar workshopu Git_GitHub_2026
-#Jak nainstalovat#
-##Běžná instalace##
+# Jak nainstalovat #
+## Běžná instalace ##
 1) Otevřete
 2) klikni na download
 3) vyber .exe soubor
